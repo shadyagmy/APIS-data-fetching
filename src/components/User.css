@@ -1,0 +1,39 @@
+
+
+.user {
+    width: 32rem;
+    background: #5CDB94;
+    color: #05396B;
+    
+    margin: 20px;
+    padding: 20px 15px;
+    border-radius: 5px;
+}
+
+.user h1 {
+    color: #EDF5E0;
+    display: flex;
+    align-items: center;
+    font-size: 1.8rem;
+    margin-bottom: 12px;
+}
+
+.user h2 {
+    margin-bottom: 12px;
+}
+
+.user ul {
+    list-style: none;
+}
+
+.user ul li {
+    margin-bottom: 10px;
+    display: flex;
+    
+}
+
+.user i {
+    margin-right: 10px;
+    color: #389583;
+}
+
